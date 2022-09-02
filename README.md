@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gutsdk
 - 👀 I’m interested in: IB
-- 🌱 I’m currently learning: smth
+- 🌱 I’m currently learning: Java
 - 💞️ I’m looking to collaborate on: nbd
 - 📫 How to reach me: NaN
 
