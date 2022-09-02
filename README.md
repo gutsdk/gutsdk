@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gutsdk
-- 👀 I’m interested in: IB
+- 👀 I’m interested in: Information Security
 - 🌱 I’m currently learning: Java
 - 💞️ I’m looking to collaborate on: nbd
 - 📫 How to reach me: NaN
