@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gutsdk
 - 👀 I’m interested in: Information Security
-- 🌱 I’m currently learning: Java
+- 🌱 I’m currently learning: Java/Kotlin
 - 💞️ I’m looking to collaborate on: nbd
 - 📫 How to reach me: Discord: https://discordapp.com/users/490864934507249702/
 
